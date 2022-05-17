@@ -1,0 +1,23 @@
+languageCode = "ru-ru"
+languageName = "Русский (RU)"
+displayName = "Russian"
+isoCode = "ru-RU"
+contentDir = 'content/ru'
+weight = 2
+rtl = false
+
+title = "Holofox"
+description = "Flutter development"
+copyright = "&copy; 2022 Holofox"
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Данил Абдрафиков"
+  image = "img/author.jpg"
+  headline = "Мне нравится представлять, творить и воплощать."
+  bio = "Данил пришёл в кроссплатформенную разработку после углубления в нативную, вместе с тем, ему посчастливилось поработать со многими распространёнными паттернами проектирования, что, в конечном итоге, дало возможность делиться разными профилем знаний по постройке поддерживаемых, гибких и надёжных решений."
+  links = [
+    { email = "mailto:founder@holofox.ru" },
+    { github = "https://github.com/holofox" },
+    { telegram = "https://t.me/horofox" },
+  ]

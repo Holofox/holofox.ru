@@ -1,0 +1,7 @@
+a.secondary:link, a.secondary:visited {
+    color: rgba(var(--color-primary-500));
+}
+
+a.secondary:hover {
+    color: rgba(var(--color-neutral-700));
+}

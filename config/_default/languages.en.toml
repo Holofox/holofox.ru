@@ -1,21 +1,20 @@
-languageCode = "en-au"
-languageName = "English (Australia)"
-displayName = ":flag-au:"
-isoCode = "en-AU"
+languageCode = "en-us"
+languageName = "English (US)"
+displayName = "English"
+isoCode = "en-US"
+contentDir = 'content/en'
 weight = 1
 rtl = false
 
 title = "Holofox"
-# logo = "img/logo.jpg"
 description = "Flutter development"
 copyright = "&copy; 2022 Holofox"
-
 dateFormat = "2 January 2006"
 
 [author]
   name = "Danil Abdrafikov"
   image = "img/author.jpg"
-  headline = "I Love creating. I Love designing. I Love developing."
+  headline = "I Love creating, designing and developing."
   bio = "Danil came to cross-platform development after delving into native, at the same time, he was lucky enough to work with many common design patterns, which ultimately made it possible to share different knowledge profiles on building supported, flexible and reliable solutions."
   links = [
     { email = "mailto:founder@holofox.ru" },

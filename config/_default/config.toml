@@ -5,7 +5,7 @@
 baseURL = "https://holofox.github.io/holofox.ru/"
 
 theme = "congo"
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 
 enableRobotsTXT = true
 paginate = 15
