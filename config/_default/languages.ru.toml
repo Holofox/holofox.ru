@@ -8,7 +8,7 @@ rtl = false
 
 title = "Holofox"
 description = "Flutter development"
-copyright = "&copy; 2022 Holofox"
+copyright = "&copy; 2023 Holofox"
 dateFormat = "2 January 2006"
 
 [author]

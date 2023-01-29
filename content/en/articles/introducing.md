@@ -3,6 +3,7 @@ title: "About the blog"
 description: ""
 date: 2022-05-15
 tags: ["flutter", "acquaintance", "workshop", "introducing"]
+summary: "Привет, давайте знакомиться! My name is Danil, I am a Flutter developer who came from native mobile development."
 ---
 
 Hi, let's get acquainted!

@@ -30,7 +30,7 @@ error:
 footer:
   dark_appearance: "Переключиться на тёмную тему"
   light_appearance: "Переключиться на светлую тему"
-  powered_by: "При поддержке {{ .Hugo }} &amp; {{ .Congo }}"
+  powered_by: "Работает на {{ .Hugo }} &amp; {{ .Congo }}"
 
 list:
   externalurl_title: "Ссылка на внешний сайт"
