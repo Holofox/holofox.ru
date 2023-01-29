@@ -32,8 +32,7 @@ To begin with, **Dart** was created by the **Google** team as a replacement or a
 writing in this language
 can be as fast as learning to ride a bicycle without hands. You can start with
 small [tours](https://dart.dev/guides/language/language-tour). By the way, the language is single-threaded out of the
-box, but
-provides an [Event Loop](https://dart.cn/articles/archive/event-loop) mechanism that helps to work with
+box, but provides an [Event Loop](https://dart.cn/articles/archive/event-loop) mechanism that helps to work with
 asynchronous/parallel operations.
 
 And it all looks almost the same as [coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
@@ -122,10 +121,8 @@ and [SwiftUI](https://developer.apple.com/xcode/swiftui/) for **iOS**.
 
 To draw widgets, the [Skia](https://skia.org/) graphics engine is used, which is largely undemanding to
 version and the platform itself, which allows you to embody truly incredible things. Physics and the widgets themselves
-try to be close
-to system ones, repeating the guidelines of a particular system, which opens up an additional opportunity to maximize
-their
-customize according to your goals and objectives.
+try to be close to system ones, repeating the guidelines of a particular system, which opens up an additional
+opportunity to maximize their customize according to your goals and objectives.
 
 You can get familiar with the layout of the user interface
 from [introduction](https://docs.flutter.dev/development/ui/widgets-intro) to widgets.
@@ -135,9 +132,8 @@ from [introduction](https://docs.flutter.dev/development/ui/widgets-intro) to wi
 Many cross-platform tools are reluctant to accept new OS changes, which often holds developers back
 to keep up with the times. Consider an example with support
 [ProMotion](https://developer.apple.com/documentation/quartzcore/optimizing_promotion_refresh_rates_for_iphone_13_pro_and_ipad_pro)
-displays
-with dynamic frame rate. For any cross-platform tool, this is now a major challenge for
-making changes to the engine core:
+displays with dynamic frame rate. For any cross-platform tool, this is now a major challenge for making changes to the
+engine core:
 
 * make a number of changes that would allow you to work with the most efficient frame rate for specific
   devices;
@@ -167,15 +163,14 @@ working projects.
 
 ## Cons
 
-Any tool has weaknesses that you encounter only when you start to approach the solution.
-serious tasks.
+Any tool has [weaknesses](https://github.com/flutter/flutter/wiki/Popular-issues) that you encounter only when you start
+to approach the solution serious tasks.
 
 ### Code generation
 
 Code generation may seem like an ideal solution in reducing developer time to write and maintain routine
 parts of the project, but this is not always the case. In **Dart**, code generation is designed in such a way that it
-has to be restarted
-every time to see new changes. In large projects, such moments begin to play a cruel joke with
+has to be restarted every time to see new changes. In large projects, such moments begin to play a cruel joke with
 developers, taking most of the time to wait for the generated part of the code (for example, in **CI/CD**).
 You can hang a listener, but this is not always suitable for the reason that it begins to react to any changes in
 code, which leads to frequent access to the SSD and freezes.
@@ -189,46 +184,40 @@ most developers.
 ### Simulate user interaction
 
 **Flutter** can be praised for its excellent support and optimization for only one platform, for which it was sharpened
-in
-first of all - **Android**. If a native **iOS** developer is allowed to feel an application written in **Flutter**, then
-he is not
-will get that same first-class user experience from using it. Physics and animations are just trying to be
-similar to those to which the user is accustomed.
+in first of all - **Android**. If a native **iOS** developer is allowed to feel an application written in **Flutter**,
+then he is not will get that same first-class user experience from using it. Physics and animations are just trying to
+be similar to those to which the user is accustomed.
 
 The developers still managed to seamlessly repeat the components and physics in
-style [Material Design](https://material.io/design), for
+style [Material Design](https://m3.material.io/), for
 except for the [Human Interface Guidelines](https://developer.apple.com/design/), where the physics and the components
-themselves are
-interactions sometimes feel artificial, as if there is another layer between the finger and the button that
-ruins the experience of using it. And the problem is not even in the components themselves, but in how **Flutter** works
-in general
-on
-this platform.
+themselves are interactions sometimes feel artificial, as if there is another layer between the finger and the button
+that ruins the experience of using it. And the problem is not even in the components themselves, but in how **Flutter**
+works in general on this platform.
 
 ### Different levels of performance
 
-When it comes to web applications, development on [Flutter Web](https://flutter.dev/web) will require special and
-rigorous approach
+When it comes to web applications, development on [Flutter Web](https://flutter.dev/multi-platform/web) will require
+special and rigorous approach
 in [optimizing](https://medium.com/flutter/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading-535fbe3cd674)
 , which in general will force to rethink its expediency. I would like to caution the use of this platform for
-Progressive Web Apps (**PWA**) or Single Page Applications (**SPA**) development because they
-performance can
+Progressive Web Apps (**PWA**) or Single Page Applications (**SPA**) development because they performance can
 significantly inferior to other tools, which will ultimately negatively affect the overall user experience and
 developer.
 
 And also Flutter in the present
 time [does not support](https://docs.flutter.dev/deployment/android#what-are-the-supported-target-architectures) build
 project under **x86** architecture for **Android**. It is believed that the number of such devices on the market is not
-so large, and with
-there are fewer of them every day, and the changes that need to be made to implement the compiled files for
-this architecture will require a [significant](https://github.com/flutter/flutter/issues/9253) amount of work in
-**Dart** compiler. You can also read more
+so large, and with there are fewer of them every day, and the changes that need to be made to implement the compiled
+files for this architecture will require a [significant](https://github.com/flutter/flutter/issues/9253) amount of work
+in **Dart** compiler. You can also read more
 with [supported](https://docs.flutter.dev/development/tools/sdk/release-notes/supported-platforms) platforms to
 decide if Flutter is right for your purposes.
 
 It is worth mentioning that writing an application under **watchOS** will also fail, however
-there is [possibility](https://docs.flutter.dev/development/platform-integration/apple-watch) to embed your own native
-extension to the current application **Flutter**.
+there
+is [possibility](https://medium.com/kbtg-life/adding-apple-watch-to-flutter-app-via-flutter-method-channel-f1443532d94e)
+to embed your own native extension to the current application **Flutter**.
 
 ### Analyzer wants to be better
 
@@ -238,12 +227,10 @@ whose existence may not be immediately known.
 
 [Analyzer](https://pub.dev/packages/analyzer) is available out of the box, it can be configured
 different [rules](https://dart-lang.github.io/linter/lints/), but they are constrained by certain types
-warnings/errors that prevent costly operations to find unused methods, classes, and
-etc.
+warnings/errors that prevent costly operations to find unused methods, classes, and etc.
 
-As a partial solution to the problem,
-use [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics), but in large projects it will be
-there is a low speed of statistical analysis, which in its own way also causes inconvenience.
+As a partial solution to the problem, use [Dart Code Metrics](https://dcm.dev/docs/individuals/getting-started), but in
+large projects it will be there is a low speed of statistical analysis, which in its own way also causes inconvenience.
 
 ## Neither here nor there
 
@@ -253,33 +240,29 @@ features that you may encounter as you develop a product on **Flutter**.
 ### Platform differences scare
 
 In a cross-platform approach, not all designers are ready to implement **UI/UX** familiar to users for various
-platforms.
-Usually something in between is chosen and most often the basis in design
-advocates [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/). This often
-abused, leading to galactic problems.
+platforms. Usually something in between is chosen and most often the basis in design
+advocates [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/)
+. This often abused, leading to galactic problems.
 
 A layout may contain a functional component that is familiar to one platform but not to another.
 Therefore, some components still need to be adapted to the behavior of a particular platform in order to reduce the
-negative and
-misunderstanding on the part of users.
+negative and misunderstanding on the part of users.
 
 ### One codebase
 
 Maintaining a cross-platform application on the same codebase is an interesting adventure, since the code is in
-appearance and one,
-but the conditions for interaction with each platform can be completely different. The wrong architecture can
-greatly increase the time for testing and support.
+appearance and one, but the conditions for interaction with each platform can be completely different. The wrong
+architecture can greatly increase the time for testing and support.
 
 Here it is also worth thinking about what functionality should be checked on different platforms, and what can be done
-on one -
-this feature must be actively used if a cross-platform tool has been chosen.
+on one - this feature must be actively used if a cross-platform tool has been chosen.
 
 ## Findings
 
 Flutter is a modern and fast solution for developing cross-platform applications. Despite their
-features, after a while everything can change so much that the current disadvantages will no longer be significant,
-and new ones will come to replace them, because every day small victories are achieved, which ultimately change
-people's perception of cross-platform tools.
+features, after a while everything can [change](https://github.com/flutter/flutter/wiki/Roadmap) so much that the
+current disadvantages will no longer be significant, and new ones will come to replace them, because every day small
+victories are achieved, which ultimately change people's perception of cross-platform tools.
 
 Briefly summarizing the main theses of the article:
 
