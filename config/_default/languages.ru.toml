@@ -1,15 +1,16 @@
 languageCode = "ru-ru"
 languageName = "Русский (RU)"
-displayName = "Russian"
-isoCode = "ru-RU"
 contentDir = 'content/ru'
 weight = 2
-rtl = false
-
 title = "Holofox"
-description = "Flutter development"
 copyright = "&copy; 2023 Holofox"
-dateFormat = "2 January 2006"
+
+[params]
+  displayName = "Russian"
+  description = "Flutter development"
+  isoCode = "ru-RU"
+  dateFormat = "2 January 2006"
+  rtl = false
 
 [author]
   name = "Данил Абдрафиков"

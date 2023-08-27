@@ -1,15 +1,16 @@
 languageCode = "en-us"
 languageName = "English (US)"
-displayName = "English"
-isoCode = "en-US"
 contentDir = 'content/en'
 weight = 1
-rtl = false
-
 title = "Holofox"
-description = "Flutter development"
 copyright = "&copy; 2023 Holofox"
-dateFormat = "2 January 2006"
+
+[params]
+  displayName = "English"
+  description = "Flutter development"
+  isoCode = "en-US"
+  dateFormat = "2 January 2006"
+  rtl = false
 
 [author]
   name = "Danil Abdrafikov"
