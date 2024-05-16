@@ -3,7 +3,7 @@ languageName = "English (US)"
 contentDir = 'content/en'
 weight = 1
 title = "Holofox"
-copyright = "&copy; 2023 Holofox"
+copyright = "&copy; 2024 Holofox"
 
 [params]
   displayName = "English"
@@ -12,7 +12,7 @@ copyright = "&copy; 2023 Holofox"
   dateFormat = "2 January 2006"
   rtl = false
 
-[author]
+[params.author]
   name = "Danil Abdrafikov"
   image = "img/author.jpg"
   headline = "I Love creating, designing and developing."
