@@ -1,7 +1,7 @@
 ---
 title: "Как внести свой вклад в Open Source и стать полезным"
 description: ""
-date: 2024-11-06
+date: 2024-11-08
 tags: [ "opensource", "flutter", "dart", "habr" ]
 externalUrl: "https://habr.com/ru/articles/856490/"
 summary: "В этой статье мы рассмотрим, как можно стать частью сообщества Open Source, 
