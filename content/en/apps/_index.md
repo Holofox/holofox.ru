@@ -1,14 +1,12 @@
 ---
 title: "Apps"
 description: ""
-tags: ["apps", "mobile"]
+tags: [ "apps", "mobile" ]
 
 showDate: false
 showAuthor: false
 showReadingTime: false
 ---
-
-I present my pet projects, with which I started my first conscious steps in mobile development back in 2015.
 
 | <center>Guess anime hero</center>                                                                                                                                                                                     | <center>Guess anime hero 2</center>                                                                                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

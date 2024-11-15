@@ -1,14 +1,14 @@
 ---
 title: "Guess anime hero"
-date: 2022-05-15
+date: 2024-11-15
 description: ""
 showAuthor: false
 ---
 
 ## Privacy Policy
 
-Holofox built the Guess anime hero app as a Free app. This SERVICE is provided by Holofox at no cost and is intended for
-use as is.
+Danil Abdrafikov built the Guess anime hero app as a Free app. This SERVICE is provided by Danil Abdrafikov at no cost
+and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal
 Information if anyone decided to use my Service.
@@ -29,9 +29,10 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app:
 
-* <a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a>
-* <a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a>
-* <a href="https://firebase.google.com/policies/analytics" target="_blank">Firebase Analytics</a>
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+* [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+* [AppMetrica](https://yandex.ru/legal/metrica_agreement/)
 
 ## Log Data
 
