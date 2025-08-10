@@ -4,7 +4,7 @@ languageDirection = "ltr"
 contentDir = 'content/ru'
 weight = 2
 title = "Holofox"
-copyright = "&copy; 2024 Holofox"
+copyright = "&copy; 2025 Holofox"
 
 [params]
   displayName = "Russian"
