@@ -2,15 +2,16 @@ languageCode = "en-us"
 languageName = "English (US)"
 languageDirection = "ltr"
 contentDir = 'content/en'
-weight = 1
+weight = 2
 title = "Holofox"
-copyright = "&copy; 2025 Holofox"
+copyright = "&copy; 2026 Holofox"
 
 [params]
   displayName = "English"
   description = "Flutter development"
   isoCode = "en-US"
   dateFormat = "2 January 2006"
+  mainSections = ["articles"]
 
 [params.author]
   name = "Danil Abdrafikov"

@@ -6,6 +6,7 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "fire"
+defaultThemeColor = "#f97316"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
@@ -37,7 +38,7 @@ showTitle = true
 
 [article]
   showDate = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
@@ -49,18 +50,18 @@ showTitle = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing"]
+  sharingLinks = ["telegram", "email"]
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
-  showTableOfContents = true
+  showSummary = true
+  showTableOfContents = false
   showTaxonomies = false
-  groupByYear = false
-  paginationWidth = 1
+  groupByYear = true
+  paginationWidth = 2
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
