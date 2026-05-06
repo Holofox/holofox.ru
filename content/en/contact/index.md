@@ -1,10 +1,9 @@
 ---
 title: "Contact"
-description: "Feedback"
+description: "Get in touch about projects, articles, or collaboration"
 showDate: false
 showReadingTime: true
-tags: ["contact", "feedback"]
+tags: ["contact"]
 ---
 
-If you have any questions related to my projects or articles, you can contact me at any time using the contacts listed
-below.
+If you have any questions about my projects or articles, feel free to reach out using the contacts below.

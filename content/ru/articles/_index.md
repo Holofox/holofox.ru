@@ -1,10 +1,8 @@
 ---
 title: "Статьи"
-description: "Статьи про мобильную разработку и не только"
-tags: ["articles"]
+description: "Статьи о мобильной разработке, Flutter и не только"
 
 cascade:
   showSummary: true
   invertPagination: true
 ---
-

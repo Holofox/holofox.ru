@@ -1,10 +1,8 @@
 ---
 title: "Articles"
-description: "Articles about mobile development"
-tags: ["articles"]
+description: "Articles on mobile development, Flutter, and more"
 
 cascade:
   showSummary: true
   invertPagination: true
 ---
-

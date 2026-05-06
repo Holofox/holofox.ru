@@ -1,13 +1,11 @@
 ---
-title: "Code refactoring, how not to be afraid of it"
+title: "Code Refactoring: How Not to Be Afraid of It"
 description: ""
 date: 2023-12-19
-tags: ["refactoring", "habr"]
+tags: ["refactoring", "dart", "flutter", "code-quality", "habr"]
 externalUrl: "https://habr.com/ru/articles/781538/"
-summary: "In my article, I look at the reasons for refactoring, talk about possible fears of this process and share
-tips on how to approach refactoring wisely."
+summary: "In this article I examine why refactoring happens, address common fears around it, and share practical advice on how to approach it wisely."
 showReadingTime: false
 ---
 
-In his [article](https://habr.com/ru/articles/781538/) I consider the reasons for refactoring, talk about possible
-fears about this process and share tips on how to approach refactoring wisely.
+In my [article on Habr](https://habr.com/ru/articles/781538/) I examine why refactoring happens, address the fears that often come with it, and share practical tips on how to approach the process wisely.

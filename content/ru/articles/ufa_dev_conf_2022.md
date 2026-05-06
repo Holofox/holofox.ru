@@ -1,7 +1,7 @@
 ---
 title: "Как стать востребованным мобильным разработчиком #UFADEVCONF2022"
 date: 2022-10-29
-tags: ["ios", "android", "flutter", "developer", "ufadevconf"]
+tags: ["ios", "android", "flutter", "career", "mobile", "ufadevconf", "youtube"]
 externalUrl: "https://youtu.be/XRe1dUQjmgY"
 summary: "В рамках своего выступления на [#UFADEVCONF](http://dc.ufacoder.com/) я подробно
 рассказал о том, как происходит трансформация из начинающего мобильного разработчика в опытного и востребованного

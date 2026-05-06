@@ -1,26 +1,21 @@
 ---
-title: "About the blog"
-description: ""
+title: "Hello from Holofox"
+description: "An introduction to the blog and its author"
 date: 2022-05-15
-tags: ["flutter", "acquaintance", "workshop", "introducing"]
-summary: "Привет, давайте знакомиться! My name is Danil, I am a Flutter developer who came from native mobile development."
+tags: ["flutter", "mobile", "blog"]
+summary: "Hi! I'm Danil, a Flutter developer who transitioned from native mobile development. Let me introduce myself and the blog."
 ---
 
-Hi, let's get acquainted!
+Hi, let me introduce myself!
 
-My name is Danil, I am a Flutter developer who came from native mobile development to cross-platform. I have
-very often had the idea to start a personal blog with interesting thoughts to help people with the answer to some
-questions.
+My name is Danil — a Flutter developer who transitioned from native mobile development to cross-platform. I've long wanted to start a personal blog to share thoughts and help people find answers to questions that matter.
 
-In real life, I participate in conferences where I share topics with people that I find very interesting and important.
-Realizing that not all people can understand the technical component of the topic at such events, I try to choose the
-one that would be common to any developer, manager, designer, etc.
+In my day-to-day life, I speak at conferences on topics I find both interesting and important. Knowing that deeply technical talks can be hard to follow at such events, I try to choose subjects relevant to developers, managers, and designers alike.
 
 {{< alert >}}
-However, if you are a beginner or an advanced specialist, the material will be useful in any case.
+Whether you're a beginner or an experienced specialist, you'll find something useful here.
 {{< /alert >}}
 
-Articles will be both on a general topic and on highly specialized ones related to the field of mobile development. I
-will try to share the solutions that I have to come to during the development of large projects.
+Articles will cover both general topics and specialized areas of mobile development. I'll share solutions I've encountered while working on large-scale projects.
 
-That's all, you can start the journey!
+Let's begin!

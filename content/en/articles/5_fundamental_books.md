@@ -1,13 +1,11 @@
 ---
-title: "5 fundamental books for the developer"
+title: "5 Essential Books for Every Developer"
 description: ""
 date: 2023-08-01
+tags: ["books", "career", "development", "tproger"]
 externalUrl: "https://tproger.ru/articles/5-fundamentalnyh-knig-dlya-razrabotchika/"
-summary: "Sooner or later, every specialist thinks about deepening his knowledge,
-as a result of which he certainly turns to the study of fundamental materials."
+summary: "Sooner or later, every developer thinks about deepening their knowledge — and inevitably turns to foundational reading."
 showReadingTime: false
 ---
 
-Sooner or later, every specialist thinks about deepening his knowledge, as a result of which he certainly turns to
-the study of fundamental materials. Read
-more in [this](https://tproger.ru/articles/5-fundamentalnyh-knig-dlya-razrabotchika/) article.
+Sooner or later, every developer thinks about deepening their knowledge and inevitably turns to foundational reading. More in [this article](https://tproger.ru/articles/5-fundamentalnyh-knig-dlya-razrabotchika/).

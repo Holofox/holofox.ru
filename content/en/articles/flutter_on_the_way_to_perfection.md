@@ -1,10 +1,9 @@
 ---
-title: "Flutter. On the way to perfection"
+title: "Flutter: On the Way to Perfection"
 description: ""
 date: 2024-01-22
-tags: [ "flutter", "dart", "habr" ]
+tags: ["flutter", "dart", "best-practices", "code-quality", "habr"]
 externalUrl: "https://habr.com/ru/articles/787620/"
-summary: "Is the code jungle really that mysterious in Flutter? In my new article, I told you how to take the path of perfection so as not to make common mistakes."
+summary: "Are Flutter's code jungles really that mysterious? In this article I share how to take the path toward perfection and avoid the most common mistakes."
 showReadingTime: false
 ---
-

@@ -1,12 +1,11 @@
 ---
-title: "Switching to Flutter: pros and cons"
+title: "Switching to Flutter: Pros and Cons"
 description: ""
 date: 2023-03-15
-tags: ["flutter", "kotlin", "dart", "java", "swift", "google", "apple", "habr"]
+tags: ["flutter", "kotlin", "dart", "java", "swift", "ios", "android", "habr"]
 externalUrl: "https://habr.com/ru/articles/722466/"
-summary: "What an experienced mobile developer needs to know to switch to Flutter,
-what features can be encountered and whether it is worth switching to it at all."
+summary: "What experienced mobile developers need to know before switching to Flutter, what challenges to expect, and whether the move is worth it."
 showReadingTime: false
 ---
 
-In [this](https://habr.com/ru/articles/722466/) article I will tell you what an experienced mobile developer needs to know to switch to Flutter, what features they may encounter and whether it is worth switching to it at all.
+In [this article on Habr](https://habr.com/ru/articles/722466/) I break down what experienced mobile developers need to know before switching to Flutter, what quirks and challenges to expect, and whether the move is worth it at all.

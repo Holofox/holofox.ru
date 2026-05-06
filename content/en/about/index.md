@@ -1,20 +1,15 @@
 ---
 title: "About"
-description: ""
-tags: ["about"]
+description: "Flutter developer Danil Abdrafikov on clean code, architecture, and mobile development"
+tags: ["about", "flutter", "mobile"]
 
 showDate: false
 showAuthor: false
 showReadingTime: true
 ---
 
-Since 2022, Holofox has been publishing articles about development on Flutter and beyond. All the presented content is
-publicly available and is intended for people who are interested in this topic.
+Since 2022, Holofox has been publishing articles about Flutter development and beyond. All content is freely available and aimed at anyone interested in the field.
 
-The blog is managed by me, Abdrafikov Danil. I like being a mentor and helping people with their questions, moreover, I
-am insanely dependent on clean code and immaculately built architecture.
+I'm Danil Abdrafikov, the author behind this blog. I enjoy mentoring and helping people with their questions — and I have a deep passion for clean code and well-crafted architecture.
 
-I am sure that there will be useful material on the site that will change your approach to development. In any case, I
-will be glad if you [contact]({{< ref "contact" >}}) me if you have any questions.
-
-Thank you for reading this, I hope you enjoy it!
+I'm confident you'll find useful material here that shifts your perspective on software development. Feel free to [reach out]({{< ref "contact" >}}) whenever you have questions.

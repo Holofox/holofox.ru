@@ -2,6 +2,7 @@
 title: "5 фундаментальных книг для разработчика"
 description: ""
 date: 2023-08-01
+tags: ["books", "career", "development", "tproger"]
 externalUrl: "https://tproger.ru/articles/5-fundamentalnyh-knig-dlya-razrabotchika/"
 summary: "Рано или поздно каждый специалист задумывается об углублении своих знаний,
 в результате чего непременно обращается к изучению фундаментальных материалов."

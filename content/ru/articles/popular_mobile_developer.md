@@ -1,7 +1,7 @@
 ---
 title: "Как стать востребованным мобильным разработчиком"
 date: 2023-01-19
-tags: ["ios", "android", "flutter", "developer"]
+tags: ["ios", "android", "flutter", "career", "mobile", "tproger"]
 externalUrl: "https://tproger.ru/articles/kak-stat-vostrebovannym-mobilnym-razrabotchikom/"
 summary: "Специально для редакции «Типичный программист» рассказал о том, какими навыками и качествами должен
 обладать мобильный разработчик, чтобы стать востребованным."

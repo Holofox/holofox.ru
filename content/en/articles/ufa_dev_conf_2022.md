@@ -1,10 +1,10 @@
 ---
-title: "How to become a popular mobile developer #UFADEVCONF"
+title: "How to Become a High-Demand Mobile Developer — #UFADEVCONF2022"
 date: 2022-10-29
-tags: ["ios", "android", "flutter", "developer", "ufadevconf"]
+tags: ["ios", "android", "flutter", "career", "mobile", "ufadevconf", "youtube"]
 externalUrl: "https://youtu.be/XRe1dUQjmgY"
-summary: "As part of my speech at the [#UFADEVCONF](http://dc.ufacoder.com/#program#!/tab/324516178-3), I spoke in detail about how the transformation from a novice mobile developer into an experienced and sought-after specialist takes place."
+summary: "At #UFADEVCONF2022 I talked in depth about the journey from a junior mobile developer to an experienced, sought-after specialist."
 showReadingTime: false
 ---
 
-As part of my [speech](https://youtu.be/XRe1dUQjmgY) at the [#UFADEVCONF](http://dc.ufacoder.com/#program#!/tab/324516178-3), I spoke in detail about how the transformation from a novice mobile developer into an experienced and sought-after specialist takes place.
+At my [#UFADEVCONF2022](http://dc.ufacoder.com/) [talk](https://youtu.be/XRe1dUQjmgY) I walked through the full journey from a junior mobile developer to a seasoned, in-demand specialist.
