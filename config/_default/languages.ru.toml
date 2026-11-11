@@ -1,6 +1,6 @@
-languageCode = "ru-ru"
-languageName = "Русский (RU)"
-languageDirection = "ltr"
+locale = "ru-ru"
+label = "Русский (RU)"
+direction = "ltr"
 contentDir = 'content/ru'
 weight = 1
 title = "Holofox"

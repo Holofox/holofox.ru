@@ -1,6 +1,6 @@
-languageCode = "en-us"
-languageName = "English (US)"
-languageDirection = "ltr"
+locale = "en-us"
+label = "English (US)"
+direction = "ltr"
 contentDir = 'content/en'
 weight = 2
 title = "Holofox"

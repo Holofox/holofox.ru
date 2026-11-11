@@ -9,3 +9,6 @@
 ### Congo ###
 # Lighthouse generated output
 .lighthouseci
+
+### JetBrains ###
+.idea/
