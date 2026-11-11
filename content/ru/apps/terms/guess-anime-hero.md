@@ -1,67 +1,69 @@
 ---
 title: "Угадай аниме героя"
 date: 2024-11-15
+lastmod: 2026-11-12
 description: ""
 showAuthor: false
 ---
 
-## Terms & Conditions
+## Условия использования
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you
-read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our
-trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try
-to translate the app into other languages, or make derivative versions. The app itself, and all the trademarks,
-copyright, database rights and other intellectual property rights related to it, still belong to Danil Abdrafikov.
+Последнее обновление: 12 ноября 2026 года
 
-Danil Abdrafikov is committed to ensuring that the app is as useful and efficient as possible. For that reason, we
-reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will
-never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Эти условия действуют для приложения «Угадай аниме героя» для iOS и Android, его разрабатывает Данил Абдрафиков.
+Устанавливая приложение или пользуясь им, вы принимаете эти условия и
+[Политику конфиденциальности]({{< ref "apps/privacy/guess-anime-hero" >}}).
 
-The Guess anime hero app stores and processes personal data that you have provided to us, in order to provide my
-Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do
-not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the
-official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs,
-compromise your phone’s security features, and it could mean that the Guess anime hero app won’t work properly or at
-all.
+## Персонажи и контент
 
-You should be aware that there are certain things that Danil Abdrafikov will not take responsibility for. Certain
-functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or
-provided by your mobile network provider, but Danil Abdrafikov cannot take responsibility for the app not working at
-full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+В игре нужно угадать персонажа аниме по силуэту. Имена, образы и другие материалы персонажей принадлежат их
+правообладателям, и игра использует их только для того, чтобы игроки узнавали персонажей. Прав на них я не заявляю, а
+игра не связана с правообладателями и не одобрена ими. Если вам принадлежат права на персонажа и вы против его
+использования, напишите мне, и я его уберу.
 
-If you’re using the app outside an area with Wi-Fi, you should remember that your terms of the agreement with your
-mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data
-for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re
-accepting responsibility for any such charges, including roaming data charges if you use the app outside your home
-territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on
-which you’re using the app, please be aware that we assume that you have received permission from the bill payer for
-using the app.
+Силуэты основаны на работах художников, которые перечислены в приложении со ссылками на их страницы.
 
-Along the same lines, Danil Abdrafikov cannot always take responsibility for the way you use the app i.e. You need to
-make sure that your device stays charged – if it runs out of battery, and you can’t turn it on to avail the Service,
-Danil Abdrafikov cannot accept responsibility.
+Код и дизайн приложения принадлежат мне. Приложение нельзя копировать, перепродавать и изменять, а также извлекать из
+него исходный код.
 
-With respect to Danil Abdrafikov’s responsibility for your use of the app, when you’re using the app, it’s important to
-bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third
-parties to provide information to us so that we can make it available to you. Danil Abdrafikov accepts no liability for
-any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+## Монеты и покупки
 
-At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for
-both systems (and for any additional systems we decide to extend the availability of the app to) may change, and you’ll
-need to download the updates if you want to keep using the app. Danil Abdrafikov does not promise that it will always
-update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your
-device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop
-providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell
-you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must
-stop using the app, and (if needed) delete it from your device.
+* Монеты — игровая валюта. Их тратят на подсказки и на открытие комплектов персонажей.
+* У монет нет денежной стоимости, их нельзя обменять на деньги или на что-либо за пределами игры.
+* Пакеты монет можно купить в приложении. Первая покупка удваивает монеты.
+* Оплата проходит через App Store или Google Play по их условиям. Возвраты оформляют Apple или Google по своим
+  правилам.
+* Монеты и прогресс хранятся на устройстве. Аккаунтов и облачных сохранений в приложении нет, поэтому после удаления
+  приложения я не смогу их восстановить.
 
-## Changes to these Terms and Conditions
+## Реклама
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any
-changes. I will notify you of any changes by posting the new Terms and Conditions on this page. These changes are
-effective immediately after they are posted on this page.
+В приложении есть только реклама за вознаграждение. Вы смотрите её, только когда хотите получить монеты или бонус, а
+играть можно и без неё.
 
-## Contact Us
+## Возраст
 
-If you have any questions or suggestions about my Terms and Conditions,
-do not hesitate to [contact]({{< ref "contact" >}}) me.
+Минимальный возраст в приложении — 6 лет. Дети и подростки играют с разрешения родителей или опекунов, и за покупки в
+приложении отвечают взрослые. Apple и Google позволяют родителям ограничить покупки в настройках устройства.
+
+## Интернет
+
+Для новых комплектов, рекламы и покупок нужен интернет. Мобильный оператор может брать плату за трафик.
+
+## Обновления и доступность
+
+Я могу обновлять приложение, менять контент и цены или прекратить поддержку. Чтобы продолжить играть, может
+понадобиться обновление.
+
+## Ответственность
+
+Приложение предоставляется «как есть». В пределах, допустимых законом, я не отвечаю за убытки от использования
+приложения или невозможности им пользоваться.
+
+## Изменения условий
+
+Когда условия меняются, я публикую новую версию на этой странице и обновляю дату вверху.
+
+## Контакты
+
+Вопросы об условиях: [founder@holofox.ru](mailto:founder@holofox.ru) или страница [контактов]({{< ref "contact" >}}).

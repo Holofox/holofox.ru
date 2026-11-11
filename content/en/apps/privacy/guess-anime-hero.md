@@ -1,96 +1,122 @@
 ---
 title: "Guess anime hero"
 date: 2024-11-15
+lastmod: 2026-11-12
 description: ""
 showAuthor: false
 ---
 
 ## Privacy Policy
 
-Danil Abdrafikov built the Guess anime hero app as a Free app. This SERVICE is provided by Danil Abdrafikov at no cost
-and is intended for use as is.
+Last updated: November 12, 2026
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal
-Information if anyone decided to use my Service.
+Guess anime hero is a quiz game for iOS and Android made by Danil Abdrafikov. This page explains what data the app
+collects, who receives it and how you can control it.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The
-Personal Information that I collect is used for providing and improving the Service. I will not use or share your
-information with anyone except as described in this Privacy
+The app has no accounts and never asks for your name, email or phone number. My server only sends the app character
+kits, levels, settings and the current time. Requests to it contain no user identifiers, and the app sends it no
+personal data.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at
-Guess anime hero unless otherwise defined in this Privacy Policy.
+## Data on your device
 
-## Information Collection and Us
+The app keeps the following on your device:
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable
-information. The information that I request will be retained on your device and is not collected by me in any way.
+* the age you enter on the "Welcome!" screen;
+* your progress and coins;
+* records of your purchases and game counters, such as gifts received and ads watched;
+* downloaded kits and levels;
+* your answer about personalized ads;
+* language and theme.
 
-The app does use third party services that may collect information used to identify you.
+Deleting the app deletes this data.
 
-Link to privacy policy of third party service providers used by the app:
+## Third-party services
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-* [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-* [AppMetrica](https://yandex.ru/legal/metrica_agreement/)
+The app includes SDKs from other companies. They collect data on your device and send it to their own servers:
 
-## Log Data
+* AppMetrica (Yandex) for analytics, crash reports and push notifications;
+* Yandex Mobile Ads (Yandex) for rewarded ads;
+* myTarget (VK), an ad network connected through Yandex Mobile Ads, and MyTracker (VK), which measures its ads;
+* Firebase Cloud Messaging (Google), on Android only, which delivers AppMetrica push notifications.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (
-through third party products) on your phone called Log Data. This Log Data may include information such as your device
-Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my
-Service, the time and date of your use of the Service, and other statistics.
+## What is collected and why
 
-## Cookies
+* Device identifiers: the advertising ID (IDFA on iOS, Google advertising ID on Android) and the IDs the SDKs assign to
+  the app installation. They are used to show and measure ads, for analytics, to send notifications and to keep app
+  features working. On iOS the IDFA is only available if you allow tracking.
+* How you use the app: screens and levels you open, answers, hints, coins earned and spent, gifts, settings you
+  change. Used for analytics and to improve the game.
+* Purchase history: which coin pack you bought and how many coins you received. Used for analytics. Payment goes
+  through the App Store or Google Play, and I never see your card details.
+* Advertising data: ad views, ad errors and the revenue from each ad view. Used to show ads and for analytics.
+* Age: the app sends your age to Yandex Mobile Ads with ad requests so that ads suit your age.
+* Approximate location: AppMetrica works out your region from your IP address. Used for analytics only.
+* Diagnostics: crash reports, performance data, error messages, device model, operating system and app version. Used
+  to find and fix bugs.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to
-your browser from the websites that you visit and are stored on your device's internal memory.
+Device identifiers, usage data, purchase history, advertising data and age may be used for tracking, that is, combined
+with data from other companies' apps and websites to target and measure ads. Approximate location and diagnostics are not
+used for tracking.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use
-“cookies” to collect information and improve their services. You have the option to either accept or refuse these
-cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to
-use some portions of this Service.
+## Personalized ads and tracking
 
-## Service Providers
+The app shows only rewarded ads, which you choose to watch to get coins or a bonus.
 
-I may employ third-party companies and individuals due to the following reasons:
+The first time you tap an ad button, the app shows the "Personalization" screen. On iOS, the system then asks whether
+the app may track you (App Tracking Transparency). On Android, you choose between relevant and less relevant ads, and
+the app passes your answer to Yandex Mobile Ads. If you refuse, the ads you see are not personalized, and the rest of
+the game works the same.
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
+To change your answer later:
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is
-to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information
-for any other purpose.
+* iOS: Settings → Privacy & Security → Tracking, then turn the switch off for this app;
+* Android: delete the advertising ID in your device settings (usually Settings → Privacy → Ads, or Settings → Google →
+  Ads). On Android 11 and earlier, turn on "Opt out of Ads Personalization" there instead.
 
-## Security
+Reinstalling the app also clears the saved answer, and the app will ask again.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means
-of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100%
-secure and reliable, and I cannot guarantee its absolute security.
+## Notifications
 
-## Links to Other Sites
+After you finish the first few levels, the app asks whether it may send notifications. Saying no changes nothing in the
+game. You can turn notifications off at any time in your device settings.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site.
-Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of
-these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of
-any third-party sites or services.
+## Children
 
-## Children’s Privacy
+The game is open to players aged 6 and over. When a player enters an age under 13, the app tells Yandex Mobile Ads the
+player is a child, ads are not personalized, and the app skips the "Personalization" screen and the iOS tracking
+request. AppMetrica analytics and crash reports work the same way for all ages.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information
-from children under 13. In the case I discover that a child under 13 has provided me with personal information, I
-immediately delete this from our servers. If you are a parent or guardian, and you are aware that your child has
-provided us with personal information, please contact me so that I will be able to do necessary actions.
+If you are a parent or guardian and want your child's data deleted, write to me (see below).
 
-## Changes to This Privacy Policy
+## How long data is kept
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any
-changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective
-immediately after they are posted on this page.
+Data on your device stays there until you delete the app. Third-party services keep data for the periods set in their
+own policies (links below).
 
-## Contact Us
+## Deleting your data
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to [contact]({{< ref "contact" >}})
-me.
+Email [founder@holofox.ru](mailto:founder@holofox.ru) with the subject "Delete my data". The app has no accounts, so I
+may ask for details that help find your device's data, such as the advertising ID. I will then ask the providers to
+delete the data linked to your device and reply when it is done. You can also contact the providers directly.
+
+## How third parties protect data
+
+I only use services that protect your data at least as well as described on this page. Each of them handles data
+under its own privacy policy:
+
+* [AppMetrica](https://yandex.com/legal/appmetrica_sdk_agreement/) and [Yandex](https://yandex.com/legal/confidential/)
+* [Yandex Mobile Ads](https://yandex.com/legal/mobileads_sdk_agreement/)
+* [myTarget and MyTracker (VK)](https://ads.vk.com/documents)
+* [Firebase Cloud Messaging](https://firebase.google.com/support/privacy)
+
+The app connects to my server and to these services over encrypted connections (HTTPS). Still, no way of storing or
+sending data is completely secure.
+
+## Changes to this policy
+
+When the policy changes, I publish the new version on this page and update the date at the top.
+
+## Contact
+
+Questions about this policy: [founder@holofox.ru](mailto:founder@holofox.ru) or the [contact]({{< ref "contact" >}})
+page.

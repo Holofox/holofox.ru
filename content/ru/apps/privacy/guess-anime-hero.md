@@ -1,96 +1,126 @@
 ---
 title: "Угадай аниме героя"
 date: 2024-11-15
+lastmod: 2026-11-12
 description: ""
 showAuthor: false
 ---
 
-## Privacy Policy
+## Политика конфиденциальности
 
-Danil Abdrafikov built the Guess anime hero app as a Free app. This SERVICE is provided by Danil Abdrafikov at no cost
-and is intended for use as is.
+Последнее обновление: 12 ноября 2026 года
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal
-Information if anyone decided to use my Service.
+«Угадай аниме героя» — игра-викторина для iOS и Android, её разрабатывает Данил Абдрафиков. Здесь написано, какие
+данные собирает приложение, кто их получает и как этим управлять.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The
-Personal Information that I collect is used for providing and improving the Service. I will not use or share your
-information with anyone except as described in this Privacy
+Аккаунтов в приложении нет, а имя, почту и телефон оно не спрашивает. Мой сервер только отдаёт приложению комплекты
+персонажей, уровни, настройки и текущее время. В запросах к нему нет идентификаторов пользователя, и персональных
+данных приложение туда не отправляет.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at
-Guess anime hero unless otherwise defined in this Privacy Policy.
+## Что хранится на устройстве
 
-## Information Collection and Us
+На устройстве приложение хранит:
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable
-information. The information that I request will be retained on your device and is not collected by me in any way.
+* возраст, который вы указали на экране «Добро пожаловать!»;
+* прогресс и монеты;
+* записи о покупках и игровые счётчики, например полученные подарки и просмотры рекламы;
+* загруженные комплекты и уровни;
+* ваш ответ про рекламу по интересам;
+* язык и тему оформления.
 
-The app does use third party services that may collect information used to identify you.
+Если удалить приложение, эти данные удалятся вместе с ним.
 
-Link to privacy policy of third party service providers used by the app:
+## Сторонние сервисы
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-* [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-* [AppMetrica](https://yandex.ru/legal/metrica_agreement/)
+В приложение встроены SDK других компаний. Они собирают данные на устройстве и отправляют на свои серверы:
 
-## Log Data
+* AppMetrica (Яндекс): аналитика, отчёты о сбоях и push-уведомления;
+* Yandex Mobile Ads (Яндекс): реклама за вознаграждение;
+* myTarget (VK): рекламная сеть, подключённая через Yandex Mobile Ads, и MyTracker (VK), который измеряет её
+  рекламу;
+* Firebase Cloud Messaging (Google): доставка push-уведомлений AppMetrica, только на Android.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (
-through third party products) on your phone called Log Data. This Log Data may include information such as your device
-Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my
-Service, the time and date of your use of the Service, and other statistics.
+## Что собирается и зачем
 
-## Cookies
+* Идентификаторы устройства: рекламный идентификатор (IDFA на iOS, рекламный идентификатор Google на Android) и
+  идентификаторы, которые SDK присваивают установке приложения. Они нужны, чтобы показывать рекламу и измерять её
+  эффективность, считать статистику, присылать уведомления и поддерживать работу приложения. На iOS IDFA доступен,
+  только если вы разрешили отслеживание.
+* Как вы пользуетесь приложением: какие экраны и уровни открываете, ответы, подсказки, заработанные и потраченные
+  монеты, подарки, изменения настроек. Нужно для аналитики и улучшения игры.
+* История покупок: какой пакет монет вы купили и сколько монет получили. Нужна для аналитики. Оплата проходит через
+  App Store или Google Play, данных карты я не вижу.
+* Рекламные данные: просмотры рекламы, ошибки показа и доход с каждого показа. Нужны для показа рекламы и аналитики.
+* Возраст: приложение передаёт его в Yandex Mobile Ads вместе с запросом рекламы, чтобы реклама подходила по
+  возрасту.
+* Примерное местоположение: AppMetrica определяет регион по IP-адресу. Используется только для аналитики.
+* Диагностика: отчёты о сбоях, данные о производительности, сообщения об ошибках, модель устройства, версия системы
+  и приложения. Нужна, чтобы находить и исправлять ошибки.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to
-your browser from the websites that you visit and are stored on your device's internal memory.
+Идентификаторы устройства, данные об использовании, история покупок, рекламные данные и возраст могут использоваться
+для отслеживания, то есть объединяться с данными из приложений и сайтов других компаний, чтобы подбирать рекламу и
+измерять её результаты. Примерное местоположение и диагностика для отслеживания не используются.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use
-“cookies” to collect information and improve their services. You have the option to either accept or refuse these
-cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to
-use some portions of this Service.
+## Реклама по интересам и отслеживание
 
-## Service Providers
+В приложении есть только реклама за вознаграждение: вы смотрите её, когда хотите получить монеты или бонус.
 
-I may employ third-party companies and individuals due to the following reasons:
+Когда вы впервые нажимаете кнопку рекламы, приложение показывает экран «Персонализация». На iOS после него система
+спрашивает, разрешить ли приложению отслеживание (App Tracking Transparency). На Android вы выбираете, показывать ли
+рекламу по интересам, и приложение передаёт ответ в Yandex Mobile Ads. Если отказаться, реклама не будет подбираться
+под вас, а в остальном игра работает так же.
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
+Как изменить ответ:
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is
-to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information
-for any other purpose.
+* iOS: Настройки → Конфиденциальность и безопасность → Отслеживание, выключите переключатель у этого приложения;
+* Android: удалите рекламный идентификатор в настройках устройства (обычно Настройки → Конфиденциальность → Реклама
+  или Настройки → Google → Реклама). На Android 11 и более ранних версиях включите там же отказ от персонализации
+  рекламы.
 
-## Security
+Сохранённый ответ также сбрасывается при переустановке приложения, и оно спросит снова.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means
-of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100%
-secure and reliable, and I cannot guarantee its absolute security.
+## Уведомления
 
-## Links to Other Sites
+После первых нескольких уровней приложение спрашивает, можно ли присылать уведомления. Если отказаться, в игре ничего
+не изменится. Выключить уведомления можно в любой момент в настройках устройства.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site.
-Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of
-these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of
-any third-party sites or services.
+## Дети
 
-## Children’s Privacy
+Играть можно с 6 лет. Если игрок указывает возраст младше 13 лет, приложение сообщает Yandex Mobile Ads, что игрок
+ребёнок, реклама не персонализируется, а экран «Персонализация» и запрос на отслеживание в iOS не показываются.
+Аналитика AppMetrica и отчёты о сбоях работают одинаково для всех возрастов.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information
-from children under 13. In the case I discover that a child under 13 has provided me with personal information, I
-immediately delete this from our servers. If you are a parent or guardian, and you are aware that your child has
-provided us with personal information, please contact me so that I will be able to do necessary actions.
+Если вы родитель или опекун и хотите удалить данные ребёнка, напишите мне (контакты ниже).
 
-## Changes to This Privacy Policy
+## Сколько хранятся данные
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any
-changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective
-immediately after they are posted on this page.
+На устройстве данные хранятся, пока вы не удалите приложение. Сторонние сервисы хранят данные столько, сколько указано
+в их политиках (ссылки ниже).
 
-## Contact Us
+## Удаление данных
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to [contact]({{< ref "contact" >}})
-me.
+Напишите на [founder@holofox.ru](mailto:founder@holofox.ru) с темой «Удалить мои данные». Аккаунтов в приложении
+нет, поэтому я могу попросить сведения, по которым можно найти данные вашего устройства, например рекламный
+идентификатор. Затем я попрошу сервисы удалить данные, связанные с вашим устройством, и отвечу, когда это будет
+сделано. Можно обратиться к сервисам и напрямую.
+
+## Как сторонние сервисы защищают данные
+
+Я пользуюсь только сервисами, которые защищают ваши данные не хуже, чем описано на этой странице. Каждый из них
+обрабатывает данные по своей политике конфиденциальности:
+
+* [AppMetrica](https://yandex.ru/legal/appmetrica_sdk_agreement/) и [Яндекс](https://yandex.ru/legal/confidential/)
+* [Yandex Mobile Ads](https://yandex.ru/legal/mobileads_sdk_agreement/)
+* [myTarget и MyTracker (VK)](https://ads.vk.com/documents)
+* [Firebase Cloud Messaging](https://firebase.google.com/support/privacy)
+
+Приложение связывается с моим сервером и этими сервисами по защищённому соединению (HTTPS). Но полностью безопасных
+способов хранить и передавать данные не бывает.
+
+## Изменения политики
+
+Когда политика меняется, я публикую новую версию на этой странице и обновляю дату вверху.
+
+## Контакты
+
+Вопросы о политике: [founder@holofox.ru](mailto:founder@holofox.ru) или страница [контактов]({{< ref "contact" >}}).
